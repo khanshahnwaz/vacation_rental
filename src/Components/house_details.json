@@ -1,0 +1,70 @@
+[
+    {
+      "id": "1522639490009",
+      "area": "Westchester County",
+      "address": "23 Isle Lane, New Rochelle, NY 10538",
+      "city": "New Rochelle",
+      "image": "https://i.pinimg.com/236x/ac/2d/30/ac2d3097e877ce69af42d970735e44f2.jpg",
+      "type": "Multi Family",
+      "floorspace": 1630,
+      "beds": 3,
+      "baths": 2,
+      "price": 765000,
+      "parking": 3,
+      "construction": [
+        "basement",
+        "fireplace"
+      ]
+    },
+    {
+      "id": "19639490088",
+      "area": "Westchester County",
+      "address": "95 Vernon ave, Scarsdale, NY 10538",
+      "city": "Scarsdale",
+      "image": "https://i.pinimg.com/236x/5f/f9/e0/5ff9e099780a7e58d21e7a6df446432e.jpg",
+      "type": "Studio",
+      "floorspace": 1200,
+      "beds": 1,
+      "baths": 1,
+      "price": 215000,
+      "parking": 3,
+      "construction": [
+        "elevator",
+        "garage"
+      ]
+    },
+    {
+      "id": "1122459390065",
+      "area": "Westchester County",
+      "address": "321 Munday Lane, Eastchester, NY 10606",
+      "city": "Eastchester",
+      "image": "https://i.pinimg.com/236x/37/9c/17/379c17591de54aef5d0a44b141c38a2a.jpg",
+      "type": "Multi Family",
+      "floorspace": 2100,
+      "beds": 3,
+      "baths": 1,
+      "price": 845000,
+      "parking": 3,
+      "construction": [
+        "basement",
+        "pool"
+      ]
+    },
+    {
+      "id": "1722679430009",
+      "area": "Westchester County",
+      "address": "123 Ducksworth Way, New Rochelle, NY 10535",
+      "city": "New Rochelle",
+      "image": "https://i.pinimg.com/236x/d9/39/2b/d9392b5c83586cd390a70f5816a4b4e3.jpg",
+      "type": "Single Family",
+      "floorspace": 2300,
+      "beds": 2,
+      "baths": 1,
+      "price": 650000,
+      "parking": 3,
+      "construction": [
+        "garage",
+        "landry"
+      ]
+    }
+  ]
