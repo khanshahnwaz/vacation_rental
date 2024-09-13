@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vacation_rental/static/css/main.b70b6d23.css",
+    "main.js": "/vacation_rental/static/js/main.93c0f601.js",
+    "static/js/453.bcd86515.chunk.js": "/vacation_rental/static/js/453.bcd86515.chunk.js",
+    "static/media/man.jpeg": "/vacation_rental/static/media/man.1032133a5fcbc07d9283.jpeg",
+    "static/media/assam.jpg": "/vacation_rental/static/media/assam.de0bfe85a932c8d6ed3a.jpg",
+    "static/media/vacation-home.jpg": "/vacation_rental/static/media/vacation-home.0bb4377aca0874ce306d.jpg",
+    "static/media/download (4).jpg": "/vacation_rental/static/media/download (4).bed46b8a9f91219f7d30.jpg",
+    "static/media/images2.jpg": "/vacation_rental/static/media/images2.4c53eb0ccd9b7f962398.jpg",
+    "static/media/download (1).jpg": "/vacation_rental/static/media/download (1).cda62b17845838722ee1.jpg",
+    "static/media/images (1).jpg": "/vacation_rental/static/media/images (1).54e98e4217970aa7fed5.jpg",
+    "static/media/images.jpg": "/vacation_rental/static/media/images.59c439adfa70e601afda.jpg",
+    "index.html": "/vacation_rental/index.html",
+    "main.b70b6d23.css.map": "/vacation_rental/static/css/main.b70b6d23.css.map",
+    "main.93c0f601.js.map": "/vacation_rental/static/js/main.93c0f601.js.map",
+    "453.bcd86515.chunk.js.map": "/vacation_rental/static/js/453.bcd86515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b70b6d23.css",
+    "static/js/main.93c0f601.js"
+  ]
+}
