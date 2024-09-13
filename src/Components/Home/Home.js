@@ -26,6 +26,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
+      {console.log("I am in home")}
       <div className="home-header">
       <h1>Welcome to Vacation Homes & Rentals</h1>
         <div className="date-inputs">
